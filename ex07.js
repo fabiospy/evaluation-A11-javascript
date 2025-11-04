@@ -20,4 +20,4 @@ function getReduction(price, age) {
 }
 
 console.log(getReduction(10, 5)); // Résultat attendu: 0
-console.log(getReduction(150, 25)); // Résultat attendu: 105
+console.log(getReduction(150, 25)); // Résultat attendu: 45
