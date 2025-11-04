@@ -1,9 +1,9 @@
 function getReduction(price, age) {
-	if (age <= 5) {
+	if (age < 5) {
       let price = 0
       return price
     }
-  if (age < 19 && age > 5) {
+  if (age < 19 && age >= 5) {
     let resultat = price * 0.5
     return resultat
   }
