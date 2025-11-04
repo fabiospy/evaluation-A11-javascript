@@ -1,5 +1,3 @@
-//ex06.js
-
 function getReduction(price, age) {
 	if (age < 6) {
       let price = 0
