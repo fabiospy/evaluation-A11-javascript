@@ -2,8 +2,8 @@
 
 function greetings(firstname) {
 	let greetings = "Bienvenue, " + firstname + " !";
-  return greetings
+	return greetings;
 }
 
-console.log(greetings("")); 
-console.log(greetings("Ben")); 
+console.log(greetings(""));
+console.log(greetings("Ben"));
