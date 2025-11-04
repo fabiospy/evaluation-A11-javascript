@@ -10,5 +10,5 @@ if (resultat % 2 == 0){
   }
 }
 
-console.log(isSumEven(1, 3)); // Résultat attendu: true
-console.log(isSumEven(1, 0)); // Résultat attendu: false
+console.log(isSumEven(1, 3));
+console.log(isSumEven(1, 0)); 

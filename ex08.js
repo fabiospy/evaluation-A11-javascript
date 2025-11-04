@@ -9,5 +9,5 @@ function isNationalIDValid(name, age, zip, password) {
   }
 }
 
-console.log(isNationalIDValid("", 18, 69100, "hello")); // Résultat attendu: false
-console.log(isNationalIDValid("John", 18, 69100, "amerty")); // Résultat attendu: true
+console.log(isNationalIDValid("", 18, 69100, "hello"));
+console.log(isNationalIDValid("John", 18, 69100, "amerty"));

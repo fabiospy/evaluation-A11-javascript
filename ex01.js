@@ -3,5 +3,5 @@ function multiplyNumber(a, b) {
     return resultat
 }
 
-console.log(multiplyNumber(0, -1)); // Résultat attendu: 0
-console.log(multiplyNumber(-1, -1)); // Résultat attendu: 1
+console.log(multiplyNumber(0, -1));
+console.log(multiplyNumber(-1, -1)); 

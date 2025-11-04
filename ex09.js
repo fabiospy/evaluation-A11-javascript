@@ -12,5 +12,5 @@ function subtraction(n1, n2) {
   return resultat;
 }
 
-console.log(calculate(0, 1, addition)); // Résultat attendu: 1
-console.log(calculate(0, 10, subtraction)); // Résultat attendu: -10
+console.log(calculate(0, 1, addition)); 
+console.log(calculate(0, 10, subtraction)); 

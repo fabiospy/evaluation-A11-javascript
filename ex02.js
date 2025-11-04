@@ -5,5 +5,5 @@ function greetings(firstname) {
   return greetings
 }
 
-console.log(greetings("")); // Résultat attendu: "Bienvenue, !"
-console.log(greetings("Ben")); // Résultat attendu: "Bienvenue, Ben !"
+console.log(greetings("")); 
+console.log(greetings("Ben")); 
