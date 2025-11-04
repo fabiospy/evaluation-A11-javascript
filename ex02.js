@@ -1,7 +1,7 @@
 // ex01.js
 
 function greetings(firstname) {
-	let greetings = "bienvenut" + firstname + "!";
+	let greetings = "Bienvenue, " + firstname + "!";
   return greetings
 }
 
